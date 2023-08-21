@@ -111,20 +111,20 @@
 - Le contenu de la maquette est rédigé, en français ou en anglais, de façon adaptée à l’interlocuteur et sans faute
 
 ### Savoir-faire techniques, organisationnels, relationnels
-- [ ] Utiliser un outil de maquettage
-- [ ] Construire la maquette de l'application optimisés, l’enchaînement et la composition des écrans
-- [ ] Planifier et suivre les tâches de maquettage
+- [x] Utiliser un outil de maquettage
+- [x] Construire la maquette de l'application optimisés, l’enchaînement et la composition des écrans
+- [x] Planifier et suivre les tâches de maquettage
 - [ ] Participer à des réunions de travail avec les utilisateurs
 - [ ] Rédiger des rapports d'activité et de reste à faire
 - [ ] Écouter, reformuler et faire la synthèse des demandes des utilisateurs
 - [ ] Connaissance d'une démarche de développement en approche de type Agile
 - [ ] Connaissance du vocabulaire professionnel technique en français et en anglais
 - [ ] Connaissance du formalisme des cas d'utilisation et du __diagramme d'état ou d’activité__ et de l'__UML__
-- [ ] Connaissance des règles ergonomiques issues de l'expérience utilisateur
-- [ ] Connaissance des composants d'interface graphique
-- [ ] Connaissance des bonnes pratiques de la qualité logicielle
-- [ ] Connaissance des réglementations concernant la protection des données individuelles __(RGPD)__
-- [ ] Connaissance des principes de sécurisation d’une interface utilisateur (simplicité, minimalité)
+- [x] Connaissance des règles ergonomiques issues de l'expérience utilisateur
+- [x] Connaissance des composants d'interface graphique
+- [x] Connaissance des bonnes pratiques de la qualité logicielle
+- [x] Connaissance des réglementations concernant la protection des données individuelles __(RGPD)__
+- [x] Connaissance des principes de sécurisation d’une interface utilisateur (simplicité, minimalité)
 
 ## Réaliser une interface utilisateur web statique et adaptable
 ### Critères de performance
@@ -142,24 +142,24 @@
 - Le partage du résultat de recherche et de veille est effectué, oralement ou par écrit, avec ses pairs
 
 ### Savoir-faire techniques, organisationnels relationnels
-- [ ] Structurer les pages selon les recommandations du __W3C__ pour le web et le web mobile
-- [ ] Coder les pages web statiques et adaptables, y compris pour le web mobile, avec un langage de balise et feuilles de style, en suivant les principes de qualité et dans un __style défensif__ en veillant à rendre l’application la plus résiliente possible
+- [x] Structurer les pages selon les recommandations du __W3C__ pour le web et le web mobile
+- [x] Coder les pages web statiques et adaptables, y compris pour le web mobile, avec un langage de balise et feuilles de style, en suivant les principes de qualité et dans un __style défensif__ en veillant à rendre l’application la plus résiliente possible
 - [ ] Utiliser un framework de type adaptatif, y compris pour le web mobile (__React__, __Angular__, __VueJs__)
-- [ ] Rendre visible le site sur les moteurs de recherche avec les techniques de référencement naturel
-- [ ] Publier les pages web sur un serveur web
-- [ ] Utiliser un outil de gestion de version de code source __GIT__, __SVN__
+- [x] Rendre visible le site sur les moteurs de recherche avec les techniques de référencement naturel
+- [x] Publier les pages web sur un serveur web
+- [x] Utiliser un outil de gestion de version de code source __GIT__, __SVN__
 - [ ] Planifier et suivre les tâches de développement methode __Scrumm, Agile__
 - [ ] Rechercher une réponse pertinente à une difficulté technique de rendu et d’accessibilité
-- [ ] Utiliser un outil collaboratif de partage de fichiers __GIT__, __Googles Doc__
-- [ ] Connaissance d'un environnement de développement
-- [ ] Connaissance du vocabulaire anglais professionnel associé au web
-- [ ] Connaissance de l'architecture du web et des standards de l’organisme de normalisation W3C
+- [x] Utiliser un outil collaboratif de partage de fichiers __GIT__, __Googles Doc__
+- [x] Connaissance d'un environnement de développement
+- [x] Connaissance du vocabulaire anglais professionnel associé au web
+- [x] Connaissance de l'architecture du web et des standards de l’organisme de normalisation W3C
 - [ ] Connaissance des bonnes pratiques de qualité incluant __l’écoconception logicielle__
-- [ ] Connaissance des langages du développement web, tels que langage de balise et feuilles de style
+- [x] Connaissance des langages du développement web, tels que langage de balise et feuilles de style
 - [ ] Connaissance d’un framework de présentation de type adaptatif
 - [ ] Connaissance des règles d’accessibilité des contenus web du type __WCAG__
 - [ ] Connaissance des modes de publication d'une application web
-- [ ] Connaissance des principes de base du référencement
+- [x] Connaissance des principes de base du référencement
 - [ ] Connaissance des principes et des règles du développement sécurisé
 
 ## Développer une interface utilisateur web dynamique
@@ -180,28 +180,28 @@
 
 ### Savoir-faire techniques, organisationnels, relationnels
 - [ ] Écrire un algorithme
-- [ ] Intégrer dans une page web des scripts événementiels avec un langage de script client, en suivant les principes de qualité et de sécurisation des clients web
+- [x] Intégrer dans une page web des scripts événementiels avec un langage de script client, en suivant les principes de qualité et de sécurisation des clients web
 - [ ] Programmer avec un framework de script client
 - [ ] Améliorer le site en utilisant des mécanismes __asynchrones__ (de type __AJAX__, ...)
 - [ ] Corriger les erreurs et remédier aux vulnérabilités détectées
 - [ ] __Documenter__ les scripts client
 - [ ] Réaliser un jeu de __tests__ des scripts client
 - [ ] Tester la sécurité du site avec un guide de test reconnu __OWASP__
-- [ ] Publier l'application développée sur un serveur web
-- [ ] Rendre visible le site sur les moteurs de recherche avec les techniques de référencement naturel
+- [x] Publier l'application développée sur un serveur web
+- [x] Rendre visible le site sur les moteurs de recherche avec les techniques de référencement naturel
 - [ ] Rechercher une réponse pertinente à une difficulté technique de développement ou une vulnérabilité identifiée
-- [ ] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones ou anglophones
-- [ ] Utiliser un outil collaboratif de partage de fichiers
-- [ ] Connaissance d'un environnement de développement
-- [ ] Connaissance du vocabulaire anglais professionnel associé au web
+- [x] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones ou anglophones
+- [x] Utiliser un outil collaboratif de partage de fichiers
+- [x] Connaissance d'un environnement de développement
+- [x] Connaissance du vocabulaire anglais professionnel associé au web
 - [ ] Connaissance des bonnes pratiques de qualité incluant l'__écoconception web__
-- [ ] Connaissance de l'architecture du web et des standards de l’organisme de __normalisation W3C__
-- [ ] Connaissance des normes __ECMAScript__ et du __DOM__ du __W3C__
+- [x] Connaissance de l'architecture du web et des standards de l’organisme de __normalisation W3C__
+- [x] Connaissance des normes __ECMAScript__ et du __DOM__ du __W3C__
 - [ ] Connaissance des langages et framework de script client
 - [ ] Connaissance des principales failles de sécurité des applications web (__XSS__, __CSRF__…) et de leurs parades
 - [ ] Connaissance des bonnes pratiques de sécurisation des clients web (code non intrusif, validations des entrées…)
-- [ ] Connaissance des modes de publication d'une application web de manière sécurisée (en __SCP__ ou __SSH__)
-- [ ] Connaissance des principes de base du référencement
+- [x] Connaissance des modes de publication d'une application web de manière sécurisée (en __SCP__ ou __SSH__)
+- [x] Connaissance des principes de base du référencement
 
 ## Elaborer et mettre en œuvre des composants dans une application de gestion de contenu ou e-commerce
 ### Critères de performance
@@ -219,26 +219,26 @@
 - Le partage du résultat de recherche et de veille est effectué, oralement ou par écrit, avec ses pairs
 
 ### Savoir-faire techniques, organisationnels, relationnels
-- [ ] Installer une solution de type CMS ou e-commerce (__Wordpress__, __Prestashop__, __Magento__, __OpenCart__)
+- [x] Installer une solution de type CMS ou e-commerce (__Wordpress__, __Prestashop__, __Magento__, __OpenCart__)
 - [ ] Maintenir, y compris sur les aspects sécurité, une solution de type CMS ou e-commerce
 - [ ] Prendre en compte les contraintes des applications multilingues
-- [ ] Construire la structure du site
+- [x] Construire la structure du site
 - [ ] Utiliser un gabarit de mise en page fourni dans la solution installée
 - [ ] Installer un gabarit de mise en page externe
 - [ ] Réaliser un gabarit de mise en page spécifique
-- [ ] Rendre visible le site sur les moteurs de recherche avec les techniques de référencement naturel
-- [ ] Publier le site vitrine ou la boutique en ligne sur un serveur web
-- [ ] Respecter les règles orthographiques et grammaticales lors de la rédaction de documents
-- [ ] Utiliser un outil collaboratif de partage de fichiers
+- [x] Rendre visible le site sur les moteurs de recherche avec les techniques de référencement naturel
+- [x] Publier le site vitrine ou la boutique en ligne sur un serveur web
+- [x] Respecter les règles orthographiques et grammaticales lors de la rédaction de documents
+- [x] Utiliser un outil collaboratif de partage de fichiers
 - [ ] Rédiger un guide utilisateur à destination des utilisateurs
-- [ ] Connaissance des règles orthographiques et grammaticales
-- [ ] Connaissance de l’architecture du web et des standards de son organisme de normalisation W3C
-- [ ] Connaissance des langages du développement web, tels que langage de balise et feuille de style
+- [x] Connaissance des règles orthographiques et grammaticales
+- [x] Connaissance de l’architecture du web et des standards de son organisme de normalisation W3C
+- [x] Connaissance des langages du développement web, tels que langage de balise et feuille de style
 - [ ] Connaissance des règles d’accessibilité des contenus web du type __WCAG__
 - [ ] Connaissance des moyens de paiement en ligne
 - [ ] Connaissance de la chaîne de publication __(workflow) d’un CMS__
 - [ ] Connaissance des principes de __gestion des droits__ et des rôles des comptes utilisateur
-- [ ] Connaissance des principes de base du référencement
+- [x] Connaissance des principes de base du référencement
 
 ## Créer une base de données
 ### Critères de performance
