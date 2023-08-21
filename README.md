@@ -255,29 +255,29 @@
 - Le partage du résultat de veille est effectué oralement ou par écrit avec ses pairs
   
 ### Savoir-faire techniques, organisationnels, relationnels
-- [ ] Recenser les informations du domaine étudié
-- [ ] Organiser les données
-- [ ] Construire l’organisation physique des données
-- [ ] Mettre en œuvre les instructions de création, de modification et de suppression de base de données
-- [ ] Mettre en œuvre les instructions pour implémenter les contraintes et l'optimisation des accès
+- [x] Recenser les informations du domaine étudié
+- [x] Organiser les données
+- [x] Construire l’organisation physique des données
+- [x] Mettre en œuvre les instructions de création, de modification et de suppression de base de données
+- [x] Mettre en œuvre les instructions pour implémenter les contraintes et l'optimisation des accès
 - [ ] Écrire et exécuter un script de création de base de données à l'aide de l’environnement intégré de développement
 - [ ] Générer un script de création de la base de données à l'aide de l'outil de modélisation
 - [ ] Élaborer des __scripts d'alimentation de la base de test__
 - [ ] Mettre en œuvre les __utilitaires de sauvegarde et restauration__ sur un serveur de bases de données
 - [ ] Planifier et suivre les tâches de mise en place de la base de données
-- [ ] Utiliser un outil collaboratif de partage de fichiers
+- [x] Utiliser un outil collaboratif de partage de fichiers
 - [ ] Rechercher une réponse pertinente à une difficulté technique de développement ou une vulnérabilité identifiée
-- [ ] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones et anglophones
-- [ ] Connaissance des systèmes de gestion de base de données
-- [ ] Connaissance des formats de données structurées (__JSON__, __XML__)
+- [x] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones et anglophones
+- [x] Connaissance des systèmes de gestion de base de données
+- [x] Connaissance des formats de données structurées (__JSON__, __XML__)
 - [ ] Connaissance des __avantages et inconvénients du relationnel et du non-relationnel__
-- [ ] Connaissance du langage de requête pour la base utilisée
+- [x] Connaissance du langage de requête pour la base utilisée
 - [ ] Connaissance des différents types de codage des données
-- [ ] Connaissance des réglementations en vigueur concernant la protection des données individuelles __RGPD__
+- [x] Connaissance des réglementations en vigueur concernant la protection des données individuelles __RGPD__
 - [ ] Connaissance des __vulnérabilités__ et des __attaques classiques__ sur les bases de données
 - [ ] Connaissance des protocoles d’accès et ports utilisés
 - [ ] Connaissance des bonnes pratiques de sécurisation : choix du __mode d’authentification__, gestion des comptes, __politique de mots de passe__
-- [ ] Connaissance d’un outil de sauvegarde de base de données
+- [x] Connaissance d’un outil de sauvegarde de base de données
 
 ## Développer les composants d’accès aux données 
 ### Critères de performance
@@ -293,7 +293,7 @@
 - Le partage du résultat de veille est effectué oralement ou par écrit avec ses pairs
 
 ### Savoir-faire techniques, organisationnels, relationnels
-- [ ] S’assurer que les contributions et publications diffusées respectent les règles orthographiques et grammaticales
+- [x] S’assurer que les contributions et publications diffusées respectent les règles orthographiques et grammaticales
 - [ ] Coder des composants dans __un langage objet__, avec un style de __programmation défensif__
 - [ ] Utiliser des bibliothèques d'objets existants
 - [ ] Coder de façon sécurisée les accès aux données en consultation, en création, en mise à jour et en suppression
@@ -301,20 +301,20 @@
 - [ ] Réaliser un __jeu de tests unitaires__ avec un outil de test d’un point de vue fonctionnel et __recherche de vulnérabilité__
 - [ ] Corriger les erreurs et remédier aux vulnérabilités détectées
 - [ ] __Documenter__ les composants
-- [ ] Utiliser un outil de gestion de versions de code source
-- [ ] Utiliser un outil collaboratif de partage de fichiers
+- [x] Utiliser un outil de gestion de versions de code source
+- [x] Utiliser un outil collaboratif de partage de fichiers
 - [ ] Rechercher une réponse pertinente à une difficulté technique de développement ou une vulnérabilité identifiée
-- [ ] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones et anglophones
+- [x] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones et anglophones
 - [ ] Contribuer à la mise à jour des bases de connaissances francophones ou anglophones accessibles par Internet
-- [ ] Connaissance des règles orthographiques et grammaticales
-- [ ] Connaissance du vocabulaire professionnel technique en français et en anglais
+- [x] Connaissance des règles orthographiques et grammaticales
+- [x] Connaissance du vocabulaire professionnel technique en français et en anglais
 - [ ] Connaissance d'un environnement de développement intégré
 - [ ] Connaissance des opérations standards permettant la gestion d’une collection d’éléments
-- [ ] Connaissance du langage de requête de type SQL
+- [x] Connaissance du langage de requête de type SQL
 - [ ] Connaissance des modèles de conception relatifs aux accès aux données
 - [ ] Connaissance de la gestion de l'intégrité des données et du concept de transaction
 - [ ] Connaissance du principe de __connexion à une base de données à partir d'un logiciel d’interface__
-- [ ] Connaissance des principales attaques sur les bases de données (injection SQL…) et de leurs parades
+- [x] Connaissance des principales attaques sur les bases de données (injection SQL…) et de leurs parades
 - [ ] Connaissance des __règles de sécurisation des composants d’accès aux données__ (vérification systématique des entrées, utilisation de procédures stockées ou de requêtes paramétrées…)
 - [ ] Connaissance des mécanismes d’authentification et de gestion de la sécurité du SGBD
 
@@ -335,7 +335,7 @@
 ### Savoir-faire techniques, organisationnels, relationnels
 - [ ] Utiliser un environnement de développement intégré y compris en anglais
 - [ ] Écrire un algorithme
-- [ ] Développer dans un langage objet
+- [x] Développer dans un langage objet
 - [ ] Développer la partie dynamique de l'application avec des composants serveurs, dans un __style défensif__, et éventuellement en __asynchrone__
 - [ ] Appeler des Web Services dans un composant serveur
 - [ ] Documenter les pages de code
@@ -345,22 +345,22 @@
 - [ ] Réaliser un jeu de tests de l'application web
 - [ ] Prendre en compte les contraintes des applications multilingues
 - [ ] Tester la sécurité du site, avec un guide de test reconnu (par exemple, celui d’__OWASP__).
-- [ ] Publier l'application développée sur un serveur web
+- [x] Publier l'application développée sur un serveur web
 - [ ] Faire effectuer un test d’intrusion
 - [ ] Prendre en compte un rapport de test d'intrusion et les corrections possibles pour traiter la vulnérabilité
-- [ ] Utiliser un outil de gestion de versions de code source
+- [x] Utiliser un outil de gestion de versions de code source
 - [ ] Rechercher une réponse pertinente à une difficulté technique de développement
-- [ ] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones ou anglophones
-- [ ] Utiliser un outil collaboratif de partage de fichiers
-- [ ] Connaissance du vocabulaire anglais professionnel associé au web
+- [x] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones ou anglophones
+- [x] Utiliser un outil collaboratif de partage de fichiers
+- [x] Connaissance du vocabulaire anglais professionnel associé au web
 - [ ] Connaissance d'un environnement de développement intégré
 - [ ] Connaissance des principes de communication du web
 - [ ] Connaissance liée aux objets connectés (protocole de communication, …)
-- [ ] Connaissance des concepts de la programmation objet
+- [x] Connaissance des concepts de la programmation objet
 - [ ] Connaissance des bonnes pratiques de qualité et d’écoconception web
 - [ ] Connaissance des bases de la cryptographie et des mécanismes de sécurité du web
 - [ ] Connaissance du rôle de l’infrastructure et des protocoles réseau dans la sécurité d’une application web
-- [ ] Connaissance des langages du développement web coté serveur
+- [x] Connaissance des langages du développement web coté serveur
 - [ ] Connaissance de l’architecture d’un serveur web
 - [ ] Connaissance des principales failles de sécurité des applications web (__XSS__, __CSRF__, …) et de leurs parades
 - [ ] Connaissance des bonnes pratiques d’architecture : rôles du client et du serveur web dans la sécurité (authentification et permissions, validations des entrées)
@@ -384,7 +384,7 @@
 ### Savoir-faire techniques, organisationnels, relationnels
 - [ ] Écrire un algorithme
 - [ ] Utiliser un environnement de développement intégré y compris en anglais
-- [ ] Développer dans un langage objet
+- [x] Développer dans un langage objet
 - [ ] Développer la partie dynamique de l'application avec des composants serveurs, dans un style défensif, et
 - [ ] éventuellement en asynchrone
 - [ ] Appeler dans le composant serveur des services web
@@ -394,16 +394,16 @@
 - [ ] Réaliser un jeu de tests de l'application web
 - [ ] Effectuer un achat test sur la boutique en ligne
 - [ ] Tester la sécurité du site, avec un guide de test reconnu (par exemple, celui d’__OWASP__)
-- [ ] Publier l'application web sur un serveur
-- [ ] Utiliser un outil de gestion de versions de code source
-- [ ] Utiliser un outil collaboratif de partage de fichiers
+- [x] Publier l'application web sur un serveur
+- [x] Utiliser un outil de gestion de versions de code source
+- [x] Utiliser un outil collaboratif de partage de fichiers
 - [ ] Faire effectuer un test d’intrusion
 - [ ] Prendre en compte un rapport de test d'intrusion et les corrections possibles pour traiter la vulnérabilité
 - [ ] Rechercher une réponse pertinente à une difficulté technique de développement
-- [ ] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones ou anglophones
+- [x] Rechercher des informations sur des sites Internet, des forums et des FAQ francophones ou anglophones
 - [ ] Connaissance d'un environnement de développement intégré
 - [ ] Connaissance du vocabulaire anglais professionnel associé au web et aux solutions de gestion de contenu et e-commerce
-- [ ] Connaissance des concepts de la programmation objet
+- [x] Connaissance des concepts de la programmation objet
 - [ ] Connaissance de l’architecture d’un serveur web
 - [ ] Connaissance des principales failles de sécurité des applications web (__XSS__, __CSRF__, …) et de leurs parades
 - [ ] Connaissance des bonnes pratiques de sécurisation du développement web (scripts clients et pages serveurs)
